@@ -1,10 +1,10 @@
 {
     "homepage":"",
     "promos": {
-        "1.8-latest": "alpha-7",
-        "1.8-recommended": "alpha-7"
+        "1.8-latest": "0.7-alpha",
+        "1.8-recommended": "0.7-alpha"
     },
     "1.8": {
-        "alpha-7": "AlexIIL: Fix a few things"
+        "0.7-alpha": "AlexIIL: Fix a few things"
     }
 }
