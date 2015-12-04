@@ -5,9 +5,9 @@
         "1.8-recommended": "0.10-alpha"
     },
     "1.8": {
-        "0.7-alpha": "AlexIIL: Fix a few things",
-        "0.8-alpha": "AlexIIL: Fix the laser block model\n        Fix a crash with the laser\n        Add a forge version checking system",
-        "0.9-alpha": "AlexIIL: Fix A few crashes\n        Improve facade rendering\n        Add a quicker way to select gate triggers",
-        "0.10-alpha":"AlexIIL: Add gate models\n        Fix a few bugs"
+        "0.10-alpha":"      Add gate models\n      Fix a few bugs",
+        "0.9-alpha": "      Fix a few crashes\n      Improver facade rendering\n      Add a quicker way to select gate triggers",
+        "0.8-alpha": "      Fix the laser block model\n      Fix a crash with the laser\n      add a forge version checking system",
+        "0.7-alpha": "      Fix a few things"
     }
 }
