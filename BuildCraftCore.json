@@ -1,12 +1,13 @@
 {
     "homepage": "http://www.mod-buildcraft.com/forums/showthread.php?tid=1853",
     "promos": {
-        "1.8-latest": "0.9-alpha",
-        "1.8-recommended": "0.9-alpha"
+        "1.8-latest": "0.10-alpha",
+        "1.8-recommended": "0.10-alpha"
     },
     "1.8": {
         "0.7-alpha": "AlexIIL: Fix a few things",
         "0.8-alpha": "AlexIIL: Fix the laser block model\n        Fix a crash with the laser\n        Add a forge version checking system",
-        "0.9-alpha": "AlexIIL: Fix A few crashes\n        Improve facade rendering\n        Add a quicker way to select gate triggers"
+        "0.9-alpha": "AlexIIL: Fix A few crashes\n        Improve facade rendering\n        Add a quicker way to select gate triggers",
+        "0.10-alpha":"AlexIIL: Add gate models\n        Fix a few bugs"
     }
 }
