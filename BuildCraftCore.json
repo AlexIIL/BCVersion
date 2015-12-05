@@ -7,7 +7,7 @@
         "1.8.8-recommended": "0.11-alpha"
     },
     "1.8": {
-        "0.11-alpha":"      Update to minecraft 1.8.8",
+        "0.11-alpha":"      Update to minecraft 1.8.8\n      This means that you need to update minecraft and forge to 1.8.8!",
         "0.10-alpha":"      Add gate models\n      Fix a few bugs",
         "0.9-alpha": "      Fix a few crashes\n      Improver facade rendering\n      Add a quicker way to select gate triggers",
         "0.8-alpha": "      Fix the laser block model\n      Fix a crash with the laser\n      add a forge version checking system",
